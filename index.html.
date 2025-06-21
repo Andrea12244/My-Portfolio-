@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MentalWell: Mental Health & Research Support</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>MentalWell</h1>
+    <p>Empowering Minds. Advancing Research.</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#support">Support Resources</a></li>
+      <li><a href="#research">For Researchers</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      MentalWell is a platform dedicated to supporting mental health awareness,
+      self-help tools, and professional resources. We also collaborate with
+      researchers to provide access to anonymized data, surveys, and
+      partnerships that can help advance mental health studies.
+    </p>
+  </section>
+
+  <section id="support">
+    <h2>Support Resources</h2>
+    <ul>
+      <li>🧠 Self-guided exercises and journaling tools</li>
+      <li>📞 Crisis hotlines and live chat support</li>
+      <li>📚 Articles on anxiety, depression, and coping mechanisms</li>
+    </ul>
+  </section>
+
+  <section id="research">
+    <h2>For Researchers</h2>
+    <p>
+      Are you conducting a study on mental health? We offer:
+    </p>
+    <ul>
+      <li>🔬 Access to anonymized user data with consent</li>
+      <li>📊 Survey distribution to targeted demographics</li>
+      <li>🤝 Collaborative opportunities with mental health professionals</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:info@mentalwell.org">info@mentalwell.org</a></p>
+    <p>Instagram: <a href="#">@mentalwell_org</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 MentalWell. All rights reserved.</p>
+  </footer>
+</body>
+</html>
